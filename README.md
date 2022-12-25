@@ -12,3 +12,9 @@ The integrations of each people is by creating the page or component first, then
 
 - Next JS 18
 - Tailwind css
+
+## How to collaborate
+
+- Ask for design
+- Assign an issues
+- Create new PR
